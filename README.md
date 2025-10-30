@@ -1,9 +1,11 @@
 # Frog Autonomous Navigation System – Team Building Challenge
 
 This project was developed during my first year at Saxion University of Applied Sciences for the module **Project Team Building Challenge (Q4)**.  
+
 The goal of this module was to work as a team and apply Scrum to develop a real Java application that controls a simulated exploration robot called **The Frog**.  
 
 The Frog needed to explore an asteroid environment, find TNT and a Detonator, avoid obstacles, and return to the base to complete its mission.  
+
 Our team built a **Pilot Application** in Java that communicates with The Frog through the **SaSaCommunicator** library, sending commands and receiving live radar and status data.
 
 ---
